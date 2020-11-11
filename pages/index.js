@@ -1,5 +1,5 @@
 const Home = () => {
-  return <div>Home</div>;
+  return <div>Home - Now with TS support!</div>;
 };
 
 export default Home;
